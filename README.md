@@ -1,9 +1,10 @@
-# nlp_chinese_corpus
+# nlp chinese corpus
+
 all kinds of Chinese Corpus for NLP 极大量中文自然语言处理语料
 
-##1.维基百科-中文简体-json版
+## 1.维基百科-中文简体-json版
 
-####104万个词条(1,043,224条; 压缩文件519M；数据更新时间：2019.2.7)
+#### 104万个词条(1,043,224条; 压缩文件519M；数据更新时间：2019.2.7)
 
 <a href="https://pan.baidu.com/s/1uPMlIY3vhusdnhAge318TA">维基百科-中文简体-json版</a>
 
