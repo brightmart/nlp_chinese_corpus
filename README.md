@@ -49,6 +49,8 @@ all kinds of Chinese Corpus for NLP 极大量中文自然语言处理语料
 
 更好句子表示的模型、句子相似性任务等。
 
+<img src="https://github.com/brightmart/nlp_chinese_corpus/blob/master/resources/baike_qa.png"  width="90%" height="90%" />
+
 
 #### 公开评测：
 
