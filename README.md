@@ -2,11 +2,11 @@
 
 all kinds of Chinese Corpus for NLP 极大量中文自然语言处理语料
 
-## 1.维基百科-中文简体-json版【下载】
+## 1.维基百科-中文简体-json版
 
 #### 104万个词条(1,043,224条; 压缩文件519M；数据更新时间：2019.2.7)
 
-<a href="https://pan.baidu.com/s/1uPMlIY3vhusdnhAge318TA">维基百科-中文简体-json版</a>
+<a href="https://pan.baidu.com/s/1uPMlIY3vhusdnhAge318TA">维基百科-中文简体-json版【下载】</a>
 
 可能的用途：可以做为通用中文语料，做预训练的语料或构建词向量，也可以用于构建知识问答。
 
@@ -36,7 +36,29 @@ all kinds of Chinese Corpus for NLP 极大量中文自然语言处理语料
 add your chinese corpus here by sending us an email  to brightmart@hotmail.com
 
 
+## 2.百科类问答-json版
 
+#### 150万个问答( 压缩文件663M；数据更新时间：2018年)
+
+##### 数据描述
+
+含有150万个问题和答案，每个问题属于一个类别。总共有492个类别，其中频率达到或超过10次的类别有434个。
+
+数据集划分：数据去重并分成三个部分。训练集：142.5万；验证集：4.5万；测试集，数万，不提供下载。
+
+可能的用途：可以做为通用中文语料，训练词向量或做为预训练的语料；也可以用于构建百科类问答；其中类别信息比较有用，可以用于做监督训练，从而构建
+
+更好句子表示的模型、句子相似性任务等。
+
+链接:https://pan.baidu.com/s/12TCEwC_Q3He65HtPKN17cA  密码:fu45
+
+#####公开评测：
+
+欢迎报告模型在验证集上的准确率。任务1： 类别预测。
+
+报告包括：#1）验证集上准确率，#2）采用的模型、方法描述、运行方式（1页PDF），#3）可运行的源代码(可选)
+
+基于#2和#3，我们会在测试集上做测试，并报告测试集上的准确率；只提供了#1和#2的队伍，验证集上的成绩依然可以被显示出来，但会被标记为未验证。
 
 ### Reference:
 
@@ -47,4 +69,5 @@ add your chinese corpus here by sending us an email  to brightmart@hotmail.com
 3. <a href='https://github.com/yichen0831/opencc-python'>Open Chinese convert (OpenCC) in pure Python:開放中文轉換</a>
 
 4. <a href='https://dumps.wikimedia.org/zhwiki/latest/'>dumps of wiki, latest in chinese</a>
+
 
