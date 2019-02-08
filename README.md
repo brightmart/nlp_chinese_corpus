@@ -29,7 +29,7 @@ all kinds of Chinese Corpus for NLP 极大量中文自然语言处理语料
     让-巴蒂斯特·赛伊在1803年将经济学从公共政策里独立出来，并定义其为对于财富之生产、分配、和消费的学问。另一方面，托马斯·卡莱尔则讽刺的称经济学为「忧郁的科学」（Dismal science），不过这一词最早是由马尔萨斯在1798年提出。约翰·斯图尔特·密尔在1844年提出了一个以社会科学定义经济学的角度：
     .....
 
-<img src="https://github.com/brightmart/nlp_chinese_corpus/blob/master/resources/wiki_zh.jpeg"  width="65%" height="65%" />
+<img src="https://github.com/brightmart/nlp_chinese_corpus/blob/master/resources/wiki_zh.jpg"  width="65%" height="65%" />
 
 
 
