@@ -1,8 +1,9 @@
 
-为中文自然语言处理领域发展贡献语料
--------------------------------------------------------------------------
+#### 为中文自然语言处理领域发展贡献语料
 
 贡献中文语料，请联系: nlp_chinese_corpus@163.com
+
+语料库将会不断扩充
 
 
 #### 维基百科(wiki2019zh) ---- 百科类问答(baike2018qa) ---- 新闻语料(news2016zh)
@@ -123,6 +124,8 @@ Contribution/贡献语料
 贡献中文语料，请发送邮件至nlp_chinese_corpus@163.com
 
 add your chinese corpus here by sending us an email
+
+if there is any issue regarding the data, you can also contact with us, we will process it. thank you for your understanding.
 
 
 
