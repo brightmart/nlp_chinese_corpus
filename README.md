@@ -1,9 +1,14 @@
 
-all kinds of Chinese Corpus for NLP 极大量中文自然语言处理语料
+all kinds of Chinese Corpus for NLP 大量中文自然语言处理语料
 
-## 1.维基百科-中文简体-json版
+#### 目标：为中文自然语言处理领域发展贡献语料
 
-#### 104万个词条(1,043,224条; 压缩文件519M；数据更新时间：2019.2.7)
+#### 方式：贡献中文语料，请联系nlp_chinese_corpus@163.com
+
+
+## 1.维基百科-中文简体-json版(wiki2019zh)
+
+#### 104万个词条(1,043,224条; 原始文件大小1G；压缩文件519M；数据更新时间：2019.2.7)
 
 <a href="https://pan.baidu.com/s/1uPMlIY3vhusdnhAge318TA">维基百科-中文简体-json版【下载】</a>
 
@@ -32,9 +37,9 @@ all kinds of Chinese Corpus for NLP 极大量中文自然语言处理语料
 
 
 
-## 2.百科类问答-json版
+## 2.百科类问答-json版(baike2018qa)
 
-#### 150万个问答( 压缩文件663M；数据更新时间：2018年)
+#### 150万个问答( 原始数据1G多，压缩文件663M；数据更新时间：2018年)
 
 <a href='https://pan.baidu.com/s/12TCEwC_Q3He65HtPKN17cA'>点此下载</a>，密码:fu45
 
@@ -72,9 +77,41 @@ all kinds of Chinese Corpus for NLP 极大量中文自然语言处理语料
 基于#2和#3，我们会在测试集上做测试，并报告测试集上的准确率；只提供了#1和#2的队伍，验证集上的成绩依然可以被显示出来，但会被标记为未验证。
 
 
-### Contribution
+## 3.新闻语料-json版(news2016zh)
+#### 250万篇新闻( 原始数据9G，压缩文件3.6G；新闻内容跨度：2014-2016年)
 
-add your chinese corpus here by sending us an email  to brightmart@hotmail.com
+<a href=''>点此下载</a>，密码: 
+
+#### 数据描述
+
+包含了250万篇新闻。新闻来源涵盖了6.3万个媒体，含标题、关键词、描述、正文。
+
+数据集划分：数据去重并分成三个部分。训练集：243万；验证集：7.7万；测试集，数万，不提供下载。
+
+可能的用途：可以做为【通用中文语料】，训练【词向量】或做为【预训练】的语料；也可以用于训练【标题生成】模型，或训练【关键词生成】模型（选关键词内容不同于标题的数据）；
+
+亦可以通过新闻渠道区分出新闻的类型。
+
+结构：
+
+    {'news_id': <news_id>,'title':<title>,'content':<content>,'source': <source>,'time':<time>,'keywords': <keywords>,'desc': <desc>, 'desc': <desc>}
+
+    其中，title是新闻标题，content是正文，keywords是关键词，desc是描述，source是新闻的来源，time是发布时间
+
+例子：
+    
+    {"news_id": "610130831", "keywords": "导游，门票","title": "故宫淡季门票40元 “黑导游”卖外地客140元", "desc": "近日有网友微博爆料称，故宫午门广场售票处出现“黑导游”，专门向外地游客出售高价门票。昨日，记者实地探访故宫，发现“黑导游”确实存在。窗口出售", "source": "新华网", "time": "03-22 12:00", "content": "近日有网友微博爆料称，故宫午门广场售票处出现“黑导游”，专门向外地游客出售高价门票。昨日，记者实地探访故宫，发现“黑导游”确实存在。窗口出售40元的门票，被“黑导游”加价出售，最高加到140元。故宫方面表示，请游客务必通过正规渠道购买门票，避免上当受骗遭受损失。目前单笔门票购买流程不过几秒钟，耐心排队购票也不会等待太长时间。....再反弹”的态势，打击黑导游需要游客配合，通过正规渠道购买门票。"}
+  
+
+<img src="https://github.com/brightmart/nlp_chinese_corpus/blob/master/resources/news2016zh.png"  width="90%" height="90%" />
+
+
+### Contribution/贡献语料
+
+贡献中文语料，请发送邮件至nlp_chinese_corpus@163.com
+
+add your chinese corpus here by sending us an email to brightmart@hotmail.com
+
 
 
 ### Reference:
