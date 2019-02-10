@@ -1,14 +1,13 @@
 
-all kinds of Chinese Corpus for NLP 大量中文自然语言处理语料
-
 #### 目标：为中文自然语言处理领域发展贡献语料
 
 #### 方式：贡献中文语料，请联系nlp_chinese_corpus@163.com
 
+#### 维基百科(wiki2019zh) 百科类问答(baike2018qa) 新闻语料(news2016zh)
 
 ## 1.维基百科-中文简体-json版(wiki2019zh)
 
-#### 104万个词条(1,043,224条; 原始文件大小1G；压缩文件519M；数据更新时间：2019.2.7)
+#### 104万个词条(1,043,224条; 原始文件大小1.7G，压缩文件519M；数据更新时间：2019.2.7)
 
 <a href="https://pan.baidu.com/s/1uPMlIY3vhusdnhAge318TA">维基百科-中文简体-json版【下载】</a>
 
@@ -65,7 +64,7 @@ all kinds of Chinese Corpus for NLP 大量中文自然语言处理语料
     {"qid": "qid_2540946131115409959", "category": "生活知识", "title": "冬天进补好一些呢，还是夏天进步好啊？ ", "desc": "", "answer": "你好！\r\r当然是冬天进补好的了，夏天人体的胃处于收缩状态，不适宜大量的进补，所以我们有时候说：“夏天就要吃些清淡的，就是这个道理的。”\r\r不过，秋季进补要注意“四忌” 一忌多多益善。任何补药服用过量都有害。认为“多吃补药，有病治病，无病强身”是不的。过量进补会加重脾胃、肝脏负担。在夏季里，人们由于喝冷饮，常食冻品，多有脾胃功能减弱的现象，这时候如果突然大量进补，会骤然加重脾胃及肝脏的负担，使长期处于疲弱的消化器官难于承受，导致消化器官功能紊乱。 \r\r二忌以药代食。重药物轻食物的做法是不科学的，许多食物也是好的滋补品。如多吃荠菜可治疗高血压；多吃萝卜可健胃消食，顺气宽胸；多吃山药能补脾胃。日常食用的胡桃、芝麻、花生、红枣、扁豆等也是进补的佳品。\r\r三忌越贵越好。每个人的身体状况不同，因此与之相适应的补品也是不同的。价格昂贵的补品如燕窝、人参之类并非对每个人都适合。每种进补品都有一定的对象和适应症，应以实用有效为滋补原则，缺啥补啥。 \r\r四忌只补肉类。秋季适当食用牛羊肉进补效果好。但经过夏季后，由于脾胃尚未完全恢复到正常功能，因此过于油腻的食品不易消化吸收。另外，体内过多的脂类、糖类等物质堆积可能诱发心脑血管病。"}
   
 
-<img src="https://github.com/brightmart/nlp_chinese_corpus/blob/master/resources/baike_qa.png"  width="90%" height="90%" />
+<img src="https://github.com/brightmart/nlp_chinese_corpus/blob/master/resources/baike_qa.png"  width="100%" height="100%" />
 
 
 #### 公开评测：
@@ -78,6 +77,7 @@ all kinds of Chinese Corpus for NLP 大量中文自然语言处理语料
 
 
 ## 3.新闻语料-json版(news2016zh)
+
 #### 250万篇新闻( 原始数据9G，压缩文件3.6G；新闻内容跨度：2014-2016年)
 
 <a href=''>点此下载</a>，密码: 
@@ -88,9 +88,13 @@ all kinds of Chinese Corpus for NLP 大量中文自然语言处理语料
 
 数据集划分：数据去重并分成三个部分。训练集：243万；验证集：7.7万；测试集，数万，不提供下载。
 
-可能的用途：可以做为【通用中文语料】，训练【词向量】或做为【预训练】的语料；也可以用于训练【标题生成】模型，或训练【关键词生成】模型（选关键词内容不同于标题的数据）；
+可能的用途：
 
-亦可以通过新闻渠道区分出新闻的类型。
+    可以做为【通用中文语料】，训练【词向量】或做为【预训练】的语料；
+   
+    也可以用于训练【标题生成】模型，或训练【关键词生成】模型（选关键词内容不同于标题的数据）；
+
+    亦可以通过新闻渠道区分出新闻的类型。
 
 结构：
 
@@ -103,14 +107,14 @@ all kinds of Chinese Corpus for NLP 大量中文自然语言处理语料
     {"news_id": "610130831", "keywords": "导游，门票","title": "故宫淡季门票40元 “黑导游”卖外地客140元", "desc": "近日有网友微博爆料称，故宫午门广场售票处出现“黑导游”，专门向外地游客出售高价门票。昨日，记者实地探访故宫，发现“黑导游”确实存在。窗口出售", "source": "新华网", "time": "03-22 12:00", "content": "近日有网友微博爆料称，故宫午门广场售票处出现“黑导游”，专门向外地游客出售高价门票。昨日，记者实地探访故宫，发现“黑导游”确实存在。窗口出售40元的门票，被“黑导游”加价出售，最高加到140元。故宫方面表示，请游客务必通过正规渠道购买门票，避免上当受骗遭受损失。目前单笔门票购买流程不过几秒钟，耐心排队购票也不会等待太长时间。....再反弹”的态势，打击黑导游需要游客配合，通过正规渠道购买门票。"}
   
 
-<img src="https://github.com/brightmart/nlp_chinese_corpus/blob/master/resources/news2016zh.png"  width="90%" height="90%" />
+<img src="https://github.com/brightmart/nlp_chinese_corpus/blob/master/resources/news2016zh.png"  width="100%" height="100%" />
 
 
 ### Contribution/贡献语料
 
 贡献中文语料，请发送邮件至nlp_chinese_corpus@163.com
 
-add your chinese corpus here by sending us an email to brightmart@hotmail.com
+add your chinese corpus here by sending us an email
 
 
 
