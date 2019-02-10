@@ -1,8 +1,8 @@
 
-目标：为中文自然语言处理领域发展贡献语料
+为中文自然语言处理领域发展贡献语料
 -------------------------------------------------------------------------
 
-#### 方式：贡献中文语料，请联系:nlp_chinese_corpus@163.com
+贡献中文语料，请联系: nlp_chinese_corpus@163.com
 
 
 #### 维基百科(wiki2019zh) ---- 百科类问答(baike2018qa) ---- 新闻语料(news2016zh)
@@ -12,13 +12,15 @@
 
 #### 104万个词条(1,043,224条; 原始文件大小1.7G，压缩文件519M；数据更新时间：2019.2.7)
 
-<a href="https://pan.baidu.com/s/1uPMlIY3vhusdnhAge318TA">维基百科-中文简体-json版【下载】</a>
+<a href='https://pan.baidu.com/s/1uPMlIY3vhusdnhAge318TA'>点此下载</a> 
+
 
 可能的用途：可以做为通用中文语料，做预训练的语料或构建词向量，也可以用于构建知识问答。
 
 结构：
 
-{"id":<id>,"url":<url>,"title":<title>,"text":<text>} 其中，title是词条的标题，text是正文；通过"\n\n"换行。
+ 
+    {"id":<id>,"url":<url>,"title":<title>,"text":<text>} 其中，title是词条的标题，text是正文；通过"\n\n"换行。
 
 例子：
 
