@@ -25,8 +25,8 @@ Update： 添加了520万翻译语料(translation2019zh); 添加了维基百科�
 
 
 #### 维基百科(wiki2019zh)  ---- 新闻语料(news2016zh)  ---- 百科问答(baike2018qa)  ---- 翻译语料(translation2019zh)
-
 <br>
+
 1.维基百科json版(wiki2019zh)
 -------------------------------------------------------------------------
 
@@ -60,8 +60,8 @@ Update： 添加了520万翻译语料(translation2019zh); 添加了维基百科�
 
 <img src="https://github.com/brightmart/nlp_chinese_corpus/blob/master/resources/img/wiki_zh.jpg"  width="90%" height="90%" />
 
-
 <br>
+
 2.新闻语料json版(news2016zh)
 -------------------------------------------------------------------------
 
@@ -96,8 +96,8 @@ Update： 添加了520万翻译语料(translation2019zh); 添加了维基百科�
 
 <img src="https://github.com/brightmart/nlp_chinese_corpus/blob/master/resources/img/news2016zh.png"  width="100%" height="100%" />
 
-
 <br>
+
 3.百科类问答json版(baike2018qa)
 -------------------------------------------------------------------------
 
@@ -140,9 +140,8 @@ Update： 添加了520万翻译语料(translation2019zh); 添加了维基百科�
 
 基于#2和#3，我们会在测试集上做测试，并报告测试集上的准确率；只提供了#1和#2的队伍，验证集上的成绩依然可以被显示出来，但会被标记为未验证。
 
-
-
 <br>
+
 4.翻译语料(translation2019zh)
 -------------------------------------------------------------------------
 
