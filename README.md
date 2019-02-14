@@ -9,6 +9,8 @@
 
 二期目标：30个百万级中文语料 & 10个千万级中文语料 & 1个亿级中文语料（2019年12月31日）
 
+Update： 添加了520万翻译语料(translation2019zh); 添加了维基百科的直接下载链接(wiki2019zh)
+
 #### 为什么需要这个项目
 
 中文的信息无处不在，但如果想要获得大量的中文语料，却是不太容易，有时甚至非常困难。在2019年初这个时点上，
@@ -22,14 +24,13 @@
 我们这个项目，就是为了解决这一问题贡献微薄之力。
 
 
-#### 维基百科(wiki2019zh)  ---- 新闻语料(news2016zh)  ---- 百科问答(baike2018qa)
+#### 维基百科(wiki2019zh)  ---- 新闻语料(news2016zh)  ---- 百科问答(baike2018qa)  ---- 翻译语料(translation2019zh)
 
 1.维基百科json版(wiki2019zh)
 -------------------------------------------------------------------------
 
 #### 104万个词条(1,043,224条; 原始文件大小1.6G，压缩文件519M；数据更新时间：2019.2.7)
-
-<a href='https://pan.baidu.com/s/1uPMlIY3vhusdnhAge318TA'>点此下载</a> 
+<a href='https://storage.googleapis.com/nlp_chinese_corpus/wiki_zh_2019.zip'>点此直接下载</a> <a href='https://pan.baidu.com/s/1uPMlIY3vhusdnhAge318TA'>或下载渠道2</a> 
 
 
 #### 可能的用途：
@@ -56,7 +57,7 @@
     让-巴蒂斯特·赛伊在1803年将经济学从公共政策里独立出来，并定义其为对于财富之生产、分配、和消费的学问。另一方面，托马斯·卡莱尔则讽刺的称经济学为「忧郁的科学」（Dismal science），不过这一词最早是由马尔萨斯在1798年提出。约翰·斯图尔特·密尔在1844年提出了一个以社会科学定义经济学的角度：
     .....
 
-<img src="https://github.com/brightmart/nlp_chinese_corpus/blob/master/resources/wiki_zh.jpg"  width="90%" height="90%" />
+<img src="https://github.com/brightmart/nlp_chinese_corpus/blob/master/resources/img/wiki_zh.jpg"  width="90%" height="90%" />
 
 
 
@@ -92,7 +93,8 @@
     {"news_id": "610130831", "keywords": "导游，门票","title": "故宫淡季门票40元 “黑导游”卖外地客140元", "desc": "近日有网友微博爆料称，故宫午门广场售票处出现“黑导游”，专门向外地游客出售高价门票。昨日，记者实地探访故宫，发现“黑导游”确实存在。窗口出售", "source": "新华网", "time": "03-22 12:00", "content": "近日有网友微博爆料称，故宫午门广场售票处出现“黑导游”，专门向外地游客出售高价门票。昨日，记者实地探访故宫，发现“黑导游”确实存在。窗口出售40元的门票，被“黑导游”加价出售，最高加到140元。故宫方面表示，请游客务必通过正规渠道购买门票，避免上当受骗遭受损失。目前单笔门票购买流程不过几秒钟，耐心排队购票也不会等待太长时间。....再反弹”的态势，打击黑导游需要游客配合，通过正规渠道购买门票。"}
   
 
-<img src="https://github.com/brightmart/nlp_chinese_corpus/blob/master/resources/news2016zh.png"  width="100%" height="100%" />
+<img src="https://github.com/brightmart/nlp_chinese_corpus/blob/master/resources/img/news2016zh.png"  width="100%" height="100%" />
+
 
 
 3.百科类问答json版(baike2018qa)
@@ -126,7 +128,7 @@
     {"qid": "qid_2540946131115409959", "category": "生活知识", "title": "冬天进补好一些呢，还是夏天进步好啊？ ", "desc": "", "answer": "你好！\r\r当然是冬天进补好的了，夏天人体的胃处于收缩状态，不适宜大量的进补，所以我们有时候说：“夏天就要吃些清淡的，就是这个道理的。”\r\r不过，秋季进补要注意“四忌” 一忌多多益善。任何补药服用过量都有害。认为“多吃补药，有病治病，无病强身”是不的。过量进补会加重脾胃、肝脏负担。在夏季里，人们由于喝冷饮，常食冻品，多有脾胃功能减弱的现象，这时候如果突然大量进补，会骤然加重脾胃及肝脏的负担，使长期处于疲弱的消化器官难于承受，导致消化器官功能紊乱。 \r\r二忌以药代食。重药物轻食物的做法是不科学的，许多食物也是好的滋补品。如多吃荠菜可治疗高血压；多吃萝卜可健胃消食，顺气宽胸；多吃山药能补脾胃。日常食用的胡桃、芝麻、花生、红枣、扁豆等也是进补的佳品。\r\r三忌越贵越好。每个人的身体状况不同，因此与之相适应的补品也是不同的。价格昂贵的补品如燕窝、人参之类并非对每个人都适合。每种进补品都有一定的对象和适应症，应以实用有效为滋补原则，缺啥补啥。 \r\r四忌只补肉类。秋季适当食用牛羊肉进补效果好。但经过夏季后，由于脾胃尚未完全恢复到正常功能，因此过于油腻的食品不易消化吸收。另外，体内过多的脂类、糖类等物质堆积可能诱发心脑血管病。"}
   
 
-<img src="https://github.com/brightmart/nlp_chinese_corpus/blob/master/resources/baike_qa.png"  width="100%" height="100%" />
+<img src="https://github.com/brightmart/nlp_chinese_corpus/blob/master/resources/img/baike_qa.png"  width="100%" height="100%" />
 
 
 #### 公开评测：
@@ -137,6 +139,53 @@
 
 基于#2和#3，我们会在测试集上做测试，并报告测试集上的准确率；只提供了#1和#2的队伍，验证集上的成绩依然可以被显示出来，但会被标记为未验证。
 
+
+
+
+4.翻译语料(translation2019zh)
+-------------------------------------------------------------------------
+
+#### 520万个问答( 原始数据1.1G，压缩文件596M)
+
+<a href='https://storage.googleapis.com/nlp_chinese_corpus/translation2019zh.zip'>点此直接下载</a>
+
+
+#### 数据描述
+
+中英文平行语料520万对。每一个对，包含一个英文和对应的中文。中文或英文，多数情况是一句带标点符号的完整的话。
+
+对于一个平行的中英文对，中文平均有36个字，英文平均有19个单词(单词如“she”)
+
+数据集划分：数据去重并分成三个部分。训练集：516万；验证集：3.9万；测试集，数万，不提供下载。
+
+#### 可能的用途：
+    
+    可以用于训练中英文翻译系统，从中文翻译到英文，或从英文翻译到中文；
+    
+    由于有上百万的中文句子，可以只抽取中文的句子，做为通用中文语料，训练词向量或做为预训练的语料。英文任务也可以类似操作；
+    
+
+#### 结构：
+
+    {"english": <english>, "chinese": <chinese>}
+    
+    其中，english是英文句子，chinese是中文句子，中英文一一对应。
+
+#### 例子：
+    
+    {"english": "In Italy, there is no real public pressure for a new, fairer tax system.", "chinese": "在意大利，公众不会真的向政府施压，要求实行新的、更公平的税收制度。"}
+  
+
+<img src="https://github.com/brightmart/nlp_chinese_corpus/blob/master/resources/img/translation2019zh.jpeg"  width="100%" height="100%" />
+
+
+#### 公开评测：
+
+欢迎报告模型在验证集上的准确率。任务1： 类别预测。
+
+报告包括：#1）验证集上准确率；#2）采用的模型、方法描述、运行方式，1页PDF；#3）可运行的源代码(可选)
+
+基于#2和#3，我们会在测试集上做测试，并报告测试集上的准确率；只提供了#1和#2的队伍，验证集上的成绩依然可以被显示出来，但会被标记为未验证。
 
 
 贡献语料/Contribution
@@ -152,9 +201,14 @@
 
 add your chinese corpus here by sending us an email
 
-if there is any issue regarding the data, you can also contact with us, we will process it. thank you for your understanding.
+if there is any issue regarding the data, you can also contact with us, we will process it within one week. 
+
+thank you for your understanding.
 
 
+项目贡献者或组织清单
+
+1. <a href='https://github.com/ReactiveCJ'>ReactiveCJ</a>，领域：推荐系统、音乐分析；组织：www.app-echo.com & www.taolaiwang.com
 
 Reference
 -------------------------------------------------------------------------
