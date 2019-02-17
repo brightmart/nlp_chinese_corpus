@@ -31,7 +31,7 @@ Update： 添加了520万翻译语料(translation2019zh); 添加了维基百科�
 -------------------------------------------------------------------------
 
 #### 104万个词条(1,043,224条; 原始文件大小1.6G，压缩文件519M；数据更新时间：2019.2.7)
-<a href='https://storage.googleapis.com/nlp_chinese_corpus/wiki_zh_2019.zip'>点此直接下载</a> <a href='https://pan.baidu.com/s/1uPMlIY3vhusdnhAge318TA'> 或下载渠道2</a> 
+<a href='https://storage.googleapis.com/nlp_chinese_corpus/wiki_zh_2019.zip'>点此直接下载</a> <a href='https://pan.baidu.com/s/1uPMlIY3vhusdnhAge318TA'> 或 下载渠道2</a> 
 
 
 #### 可能的用途：
@@ -209,7 +209,7 @@ thank you for your understanding.
 项目贡献者或组织清单
 -------------------------------------------------------------------------
 
-1. <a href='https://github.com/ReactiveCJ'>ReactiveCJ</a>，领域：推荐系统、音乐分析；组织：www.app-echo.com & www.taolaiwang.com
+1. <a href='https://github.com/ReactiveCJ'>ReactiveCJ</a>
 
 Reference
 -------------------------------------------------------------------------
