@@ -211,6 +211,13 @@ thank you for your understanding.
 
 1. <a href='https://github.com/ReactiveCJ'>ReactiveCJ</a>
 
+引用/Citation
+-------------------------------------------------------------------------
+
+If you use our corpus, please cite: 
+
+Liang Xu, NCC2019: Large-Scale Chinese Datasets for NLP, http://github.com/brightmart/nlp_chinese_corpus
+
 Reference
 -------------------------------------------------------------------------
 
