@@ -24,7 +24,7 @@ Update： 增加高质量社区问答json版(webtext2019zh)，可用于训练超
 我们这个项目，就是为了解决这一问题贡献微薄之力。
 
 
-#### 维基百科(wiki2019zh)----新闻语料(news2016zh)----百科问答(baike2018qa)----翻译语料(translation2019zh)----社区问答json版(webtext2019zh)
+#### 维基百科(wiki2019zh)--新闻语料(news2016zh)--百科问答(baike2018qa)--翻译语料(translation2019zh)--社区问答json版(webtext2019zh)
 <br>
 
 1.维基百科json版(wiki2019zh)
