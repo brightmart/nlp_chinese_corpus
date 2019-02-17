@@ -24,7 +24,11 @@ Update： 增加高质量社区问答json版(webtext2019zh)，可用于训练超
 我们这个项目，就是为了解决这一问题贡献微薄之力。
 
 
-#### 维基百科(wiki2019zh)--新闻语料(news2016zh)--百科问答(baike2018qa)--翻译语料(translation2019zh)--社区问答json版(webtext2019zh)
+#### 1.维基百科(wiki2019zh)
+#### 2.新闻语料(news2016zh)
+#### 3.百科问答(baike2018qa)
+#### 4.翻译语料(translation2019zh)
+#### 5.社区问答json版(webtext2019zh)
 <br>
 
 1.维基百科json版(wiki2019zh)
@@ -147,7 +151,7 @@ Update： 增加高质量社区问答json版(webtext2019zh)，可用于训练超
 
 #### 410万个问答( 过滤后数据3.7G，压缩文件1.7G；数据跨度：2015-2016年)
 
-<a href=''>点此直接下载</a>
+<a href='https://storage.googleapis.com/nlp_chinese_corpus/webtext2019zh.zip'>点此直接下载</a>
 
 
 #### 数据描述
