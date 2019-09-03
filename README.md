@@ -3,6 +3,8 @@
 
 贡献中文语料，请发送邮件: nlp_chinese_corpus@163.com
 
+<a href="https://github.com/brightmart/roberta_zh">使用3亿句子，训练了100亿中文字的RoBERTa中文版，本周末发布，2019-09-08</a>
+
 语料库将会不断扩充。。。
 
 一期目标：10个百万级中文语料 & 3个千万级中文语料(2019年5月1号)
