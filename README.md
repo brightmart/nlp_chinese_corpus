@@ -276,19 +276,25 @@ thank you for your understanding.
 
 1. <a href='https://github.com/ReactiveCJ'>ReactiveCJ</a>
 
-引用/Citation
+
+引用 Citation / How do I cite Us?
 -------------------------------------------------------------------------
 
-If you use our corpus, please cite: 
+@misc{brgith_xu_2019_3402023,
+    author       = {Bright Xu},
+    title        = {NLP Chinese Corpus: Large Scale Chinese Corpus for NLP },
+    month        = sep,
+    year         = 2019,
+    doi          = {10.5281/zenodo.3402023},
+    version      = {1.0},
+    publisher    = {Zenodo},
+    url          = {https://doi.org/10.5281/zenodo.3402023}
+    }
 
-Liang Xu, NLPCC2019: Large-Scale Chinese Datasets for NLP, http://github.com/brightmart/nlp_chinese_corpus
+
+<a href="https://zenodo.org/badge/latestdoi/169745123"><img src="https://zenodo.org/badge/169745123.svg" alt="DOI"></a>
 
 也请发邮件告知我们您的论文名称或在这个项目的数据集上的工作
-
-How do I cite This?
--------------------------------------------------------------------------
-Bright Xu, NLP Chinese Corpus, (2019), GitHub repository, https://github.com/brightmart/nlp_chinese_corpus
-
 
 
 Reference
