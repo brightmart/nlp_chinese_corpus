@@ -73,7 +73,7 @@ Update： 增加高质量社区问答json版(webtext2019zh)，可用于训练超
 
 #### 250万篇新闻( 原始数据9G，压缩文件3.6G；新闻内容跨度：2014-2016年)
 
-<a href='https://pan.baidu.com/s/1LJeq1dkA0wmYd9ZGZw72Xg'>点此下载</a>，密码: film
+<a href='https://drive.google.com/file/d/1TMKu1FpTr6kcjWXWlQHX7YJsMfhhcVKp/view?usp=sharing'>Google Drive下载</a>
 
 #### 数据描述
 
