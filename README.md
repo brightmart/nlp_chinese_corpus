@@ -280,7 +280,7 @@ thank you for your understanding.
 引用 Citation / How do I cite Us?
 -------------------------------------------------------------------------
 
-    @misc{brgith_xu_2019_3402023,
+    @misc{bright_xu_2019_3402023,
     author       = {Bright Xu},
     title        = {NLP Chinese Corpus: Large Scale Chinese Corpus for NLP },
     month        = sep,
