@@ -280,24 +280,15 @@ thank you for your understanding.
 引用 Citation / How do I cite Us?
 -------------------------------------------------------------------------
 
-@misc{brgith_xu_2019_3402023,
-
+    @misc{brgith_xu_2019_3402023,
     author       = {Bright Xu},
-    
     title        = {NLP Chinese Corpus: Large Scale Chinese Corpus for NLP },
-    
     month        = sep,
-    
     year         = 2019,
-    
     doi          = {10.5281/zenodo.3402023},
-    
     version      = {1.0},
-    
     publisher    = {Zenodo},
-    
     url          = {https://doi.org/10.5281/zenodo.3402023}
-    
     }
 
 
