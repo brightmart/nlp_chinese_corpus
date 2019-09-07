@@ -35,7 +35,7 @@ Update： 增加高质量社区问答json版(webtext2019zh)，可用于训练超
 -------------------------------------------------------------------------
 
 #### 104万个词条(1,043,224条; 原始文件大小1.6G，压缩文件519M；数据更新时间：2019.2.7)
-<a href='https://storage.googleapis.com/nlp_chinese_corpus/wiki_zh_2019.zip'>点此直接下载</a> <a href='https://pan.baidu.com/s/1uPMlIY3vhusdnhAge318TA'> 或 下载渠道2</a> 
+<a href='https://drive.google.com/file/d/1EdHUZIDpgcBoSqbjlfNKJ3b1t0XIUjbt/view?usp=sharing'>Google Drive下载</a> <a href='https://pan.baidu.com/s/1uPMlIY3vhusdnhAge318TA'> 或百度云盘</a> 
 
 
 #### 可能的用途：
@@ -107,7 +107,7 @@ Update： 增加高质量社区问答json版(webtext2019zh)，可用于训练超
 
 #### 150万个问答( 原始数据1G多，压缩文件663M；数据更新时间：2018年)
 
-<a href='https://pan.baidu.com/s/12TCEwC_Q3He65HtPKN17cA'>点此下载</a>，密码:fu45
+<a href="https://drive.google.com/file/d/1EdHUZIDpgcBoSqbjlfNKJ3b1t0XIUjbt/view?usp=sharing">Google Drive下载</a> 或 <a href='https://pan.baidu.com/s/12TCEwC_Q3He65HtPKN17cA'>百度云盘下载</a>，密码:fu45
 
 
 #### 数据描述
@@ -151,7 +151,7 @@ Update： 增加高质量社区问答json版(webtext2019zh)，可用于训练超
 
 #### 410万个问答( 过滤后数据3.7G，压缩文件1.7G；数据跨度：2015-2016年)
 
-<a href='https://storage.googleapis.com/nlp_chinese_corpus/webtext2019zh.zip'>点此直接下载</a>
+<a href='https://drive.google.com/file/d/1EdHUZIDpgcBoSqbjlfNKJ3b1t0XIUjbt/view?usp=sharing'>Google Drive下载</a>
 
 
 #### 数据描述
@@ -282,6 +282,12 @@ If you use our corpus, please cite:
 Liang Xu, NLPCC2019: Large-Scale Chinese Datasets for NLP, http://github.com/brightmart/nlp_chinese_corpus
 
 也请发邮件告知我们您的论文名称或在这个项目的数据集上的工作
+
+How do I cite This?
+-------------------------------------------------------------------------
+Bright Xu, NLP Chinese Corpus, (2019), GitHub repository, https://github.com/brightmart/nlp_chinese_corpus
+
+
 
 Reference
 -------------------------------------------------------------------------
