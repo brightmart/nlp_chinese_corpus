@@ -169,7 +169,7 @@ Update： 增加高质量社区问答json版(webtext2019zh)，可用于训练超
 
 #### 可能的用途：
     
-    1）构建百科类问答：输入一个问题，构建检索系统得到一个回复或生产一个回复。
+    1）构建百科类问答：输入一个问题，构建检索系统得到一个回复或生产一个回复；或根据相关关键词从，社区问答库中筛选出你相关的领域数据
     
     2）训练话题预测模型：输入一个问题(和或描述)，预测属于话题。
     
@@ -221,7 +221,7 @@ Update： 增加高质量社区问答json版(webtext2019zh)，可用于训练超
 
 #### 520万个中英文平行语料( 原始数据1.1G，压缩文件596M)
 
-<a href='https://storage.googleapis.com/nlp_chinese_corpus/translation2019zh.zip'>点此直接下载</a>
+<a href='https://drive.google.com/file/d/1EdHUZIDpgcBoSqbjlfNKJ3b1t0XIUjbt/view?usp=sharing'>Google Drive下载</a>
 
 
 #### 数据描述
