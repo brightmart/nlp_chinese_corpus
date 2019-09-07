@@ -37,7 +37,7 @@ Update： 增加高质量社区问答json版(webtext2019zh)，可用于训练超
 -------------------------------------------------------------------------
 
 #### 104万个词条(1,043,224条; 原始文件大小1.6G，压缩文件519M；数据更新时间：2019.2.7)
-<a href='https://drive.google.com/file/d/1EdHUZIDpgcBoSqbjlfNKJ3b1t0XIUjbt/view?usp=sharing'>Google Drive下载</a> <a href='https://pan.baidu.com/s/1uPMlIY3vhusdnhAge318TA'> 或百度云盘</a> 
+<a href='https://drive.google.com/file/d/1EdHUZIDpgcBoSqbjlfNKJ3b1t0XIUjbt/view?usp=sharing'>Google Drive下载</a> <a href='https://pan.baidu.com/s/1uPMlIY3vhusdnhAge318TA'> 或 百度云盘</a> 
 
 
 #### 可能的用途：
