@@ -221,7 +221,7 @@ Update： 增加高质量社区问答json版(webtext2019zh)，可用于训练超
 
 #### 520万个中英文平行语料( 原始数据1.1G，压缩文件596M)
 
-<a href='https://drive.google.com/file/d/1EdHUZIDpgcBoSqbjlfNKJ3b1t0XIUjbt/view?usp=sharing'>Google Drive下载</a>
+<a href='https://drive.google.com/open?id=1EX8eE5YWBxCaohBO8Fh4e2j3b9C2bTVQ'>Google Drive下载</a>
 
 
 #### 数据描述
