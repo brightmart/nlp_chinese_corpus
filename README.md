@@ -3,7 +3,11 @@
 
 贡献中文语料，请发送邮件: nlp_chinese_corpus@163.com
 
-<a href="https://github.com/brightmart/albert_zh">Releasing Pre-trained Model of <a href="https://github.com/brightmart/albert_zh">ALBERT_Chinese</a> Training with 30G+ Raw Chinese Corpus, xxlarge, small version and more, Target to match State of the Art performance in Chinese, 2019-Oct-7, During the National Day of China!</a>
+*** update ****
+
+Releasing Pre-trained Model of <a href="https://github.com/brightmart/albert_zh">ALBERT_Chinese</a>:
+
+Training with 30G+ Raw Chinese Corpus, xxlarge, small version and more, Target to match State of the Art performance in Chinese with 30% less parameters, 2019-Oct-7, During the National Day of China!</a>
 
 语料库将会不断扩充。。。
 
