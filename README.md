@@ -77,7 +77,7 @@ Update： 增加高质量社区问答json版(webtext2019zh)，可用于训练超
 
 #### 250万篇新闻( 原始数据9G，压缩文件3.6G；新闻内容跨度：2014-2016年)
 
-<a href='https://drive.google.com/file/d/1TMKu1FpTr6kcjWXWlQHX7YJsMfhhcVKp/view?usp=sharing'>Google Drive下载</a>
+<a href='https://drive.google.com/file/d/1TMKu1FpTr6kcjWXWlQHX7YJsMfhhcVKp/view?usp=sharing'>Google Drive下载</a> 或 <a href='https://pan.baidu.com/s/1XHnZSrdmlIr8kaRNcqd5WA'> 百度云盘下载 </a>, 提取码 4sm9 
 
 #### 数据描述
 
@@ -157,7 +157,7 @@ Update： 增加高质量社区问答json版(webtext2019zh)，可用于训练超
 
 #### 410万个问答( 过滤后数据3.7G，压缩文件1.7G；数据跨度：2015-2016年)
 
-<a href='https://drive.google.com/open?id=1u2yW_XohbYL2YAK6Bzc5XrngHstQTf0v'>Google Drive下载</a>
+<a href='https://drive.google.com/open?id=1u2yW_XohbYL2YAK6Bzc5XrngHstQTf0v'>Google Drive下载</a> 或 <a href='https://pan.baidu.com/s/1IgoN2sP1KC5qndYsxSA-Ug'> 百度云盘下载 </a>, 提取码 bk1s 
 
 
 #### 数据描述
@@ -225,8 +225,7 @@ Update： 增加高质量社区问答json版(webtext2019zh)，可用于训练超
 
 #### 520万个中英文平行语料( 原始数据1.1G，压缩文件596M)
 
-<a href='https://drive.google.com/open?id=1EX8eE5YWBxCaohBO8Fh4e2j3b9C2bTVQ'>Google Drive下载</a>
-
+<a href='https://drive.google.com/open?id=1EX8eE5YWBxCaohBO8Fh4e2j3b9C2bTVQ'>Google Drive下载</a> 或 <a href='https://pan.baidu.com/s/17O_2qThOGZDEVBXp8RlV0g'> 百度云盘下载 </a>, 提取码 ihqu 
 
 #### 数据描述
 
