@@ -5,7 +5,9 @@
 
 *** update ****
 
-中文任务基准测评及baseline一键运行 Language Understanding Evaluation benchmark for Chinese(<a href='https://github.com/CLUEbenchmark/CLUE'>CLUE benchmark<a/>): run 10 tasks & 9 baselines with one line of code, performance comparision with details.
+中文任务基准测评：10大任务 & 9个模型一键运行、详细测评 
+
+Language Understanding Evaluation benchmark for Chinese(<a href='https://github.com/CLUEbenchmark/CLUE'>CLUE benchmark<a/>): run 10 tasks & 9 baselines with one line of code, performance comparision with details.
     
 Releasing Pre-trained Model of <a href="https://github.com/brightmart/albert_zh">ALBERT_Chinese</a>:
 
