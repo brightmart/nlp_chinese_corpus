@@ -1,7 +1,7 @@
 
 #### 为中文自然语言处理领域发展贡献语料
 
-贡献中文语料，请发送邮件: nlp_chinese_corpus@163.com
+贡献中文语料，请发送邮件: CLUEbenchmark@163.com
 
 *** update ****
 
