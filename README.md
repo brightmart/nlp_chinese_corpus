@@ -1,7 +1,7 @@
 
 #### 为中文自然语言处理领域发展贡献语料
 
-贡献中文语料，请发送邮件: CLUEbenchmark@163.com； <a href="https://www.qclue.cn/demo">全自动标注工具-预约</a>
+贡献中文语料，请发送邮件: CLUEbenchmark@163.com； <a href="https://www.qclue.cn/demo">NLP自动标注工具（提效最多100X）-预约</a>
 
 *** update ****
 
