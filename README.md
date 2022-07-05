@@ -1,7 +1,7 @@
 
 #### 为中文自然语言处理领域发展贡献语料
 
- <a href="https://www.modelfun.cn/demo">NLP自动标注工具（提效最多100X）-预约</a>
+ <a href="https://www.modelfun.cn">NLP自动标注工具（提效最多100X）-预约演示</a>
 
 *** update ****
 
