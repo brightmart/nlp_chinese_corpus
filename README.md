@@ -1,8 +1,8 @@
 
 #### 为中文自然语言处理领域发展贡献语料
-<a href="https://github.com/clue-ai/PromptCLUE">PromptCLUE：大规模多任务Prompt预训练开源中文模型，可在线使用和下载模型</a>
 
- <a href="https://www.cluebenchmarks.com/clueai.html">三分钟定制一个NLP的API--社区版免费</a>
+ <a href="https://www.cluebenchmarks.com/clueai.html">clueai工具包：三分钟定制一个NLP的API--社区版免费</a>
+
 
 *** update ****
 
