@@ -1,7 +1,7 @@
 
 #### 为中文自然语言处理领域发展贡献语料
 
- <a href="https://www.cluebenchmarks.com/clueai.html">clueai工具包：三行代码，三分钟定制一个NLP的API</a>
+<a href="https://github.com/CLUEbenchmark/SuperCLUE">SuperCLUE: 中文通用大模型综合性测评基准</a>
 
 
 *** update ****
