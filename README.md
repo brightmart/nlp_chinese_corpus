@@ -1,6 +1,8 @@
 
 #### 为中文自然语言处理领域发展贡献语料
 
+<a href='https://www.SuperCLUEAI.com'>中文通用大模型匿名对战评价基准，SuperCLUE琅琊榜</a>
+
 <a href="https://github.com/CLUEbenchmark/SuperCLUE">SuperCLUE: 中文通用大模型综合性测评基准</a>
 
 
