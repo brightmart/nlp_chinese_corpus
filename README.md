@@ -1,7 +1,7 @@
 
 #### 为中文自然语言处理领域发展贡献语料
 
-<a href='https://www.langyb.com'>【琅琊榜】-中文大模型专门竞技场，你关心的领先模型都在这里</a>
+<a href='https://www.langyb.com'>【琅琊榜】-中文大模型专用竞技场，你关心的领先模型都在这里</a>
 
 <a href='https://www.SuperCLUEAI.com'>中文大模型最新榜单</a>
 
